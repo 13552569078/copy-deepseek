@@ -1,0 +1,2 @@
+# copy-deepseek
+copy-deepseek
